@@ -1,0 +1,10 @@
+{
+  "name": "appkr/iperf",
+  "description": "Internet download speed test with iperf",
+  "type": "project",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.5-dev"
+    }
+  }
+}
